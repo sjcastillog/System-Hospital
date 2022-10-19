@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{c as t,o,a as s}from"./app.d1b50083.js";const c={},r={class:"row justify-content-md-center pt-2"},a=s("div",{class:"alert alert-success",role:"alert"}," Bienvenido Estimado(a) ",-1),n=[a];function _(i,d){return o(),t("div",r,n)}const f=e(c,[["render",_]]);export{f as default};
